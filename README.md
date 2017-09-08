@@ -11,4 +11,10 @@ Servos & Access Point
 - 2x Micro Servo - MG90S High Torque Metal Gear
 - 8-Channel PWM or Servo FeatherWing Add-on For All Feather Boards
 - FeatherWing Doubler - Prototyping Add-on For All Feather Boards
+
+
+-------------------------
 ![screenshot](giphy.gif)
+
+-------------------------
+![screenshot](giphy-downsized-large.gif)
